@@ -1,0 +1,22 @@
+.price-data h2{
+    text-align: center;
+}
+.price-data h4{
+    text-align: center;
+    font-style: italic;
+    
+}
+.price-data h3{
+    font-style: italic;
+    color:red;
+    
+}
+.price-data button{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    background-color:goldenrod;
+    border-color: rgb(216, 210, 168);
+    font-size: 16px;
+    font-variant: normal;
+}
